@@ -20,7 +20,8 @@ This is an official implementation of the **Sophia-G** optimizer in the paper [h
 
 ## Install
 
-```pip install -e .
+```python
+pip install -e .
 ```
 
 ## Dependencies
