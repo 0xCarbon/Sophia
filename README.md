@@ -18,6 +18,10 @@ This is an official implementation of the **Sophia-G** optimizer in the paper [h
 - Updated results with latest PyTorch version.
 
 
+## Install
+
+```pip install -e .
+```
 
 ## Dependencies
 
